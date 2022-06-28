@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to Amenofisch's Page for Mon Bazou Mods
 
-You can use the [editor on GitHub](https://github.com/Amenofisch/monbazou/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can directly find all the available mods between all the pesky saves.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Cheats
 
-# Header 1
-## Header 2
-### Header 3
+1. [VieFacile](https://www.nexusmods.com/monbazou/mods/8)
+  - Spawn Menu
+  - Teleport Menu
+  - Change Time
+  - Add / Remove Money
+  - Player Menu
+  - Friendship Managment
+  - Misc (unlock/build,...)
+**Developed by Amenofisch#5368**
+  
+2. [BrightLife](https://www.nexusmods.com/monbazou/mods/13)
+  - Teleport Menu
+  - Spawn Menu
+  - Friendship Managment
+  - Build / Unlock Menu
+  - Time Managment
+  - World Managment
+  - Store Managment
+**Developed by TheBoiiii#6841**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+3. [Motionless](https://www.nexusmods.com/monbazou/mods/5)
+  - Teleport Menu
+  - Time Managment
+  - Build / Unlock Menu
+  - Misc
+**Developed by UponARedSky#9622**
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amenofisch/monbazou/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
