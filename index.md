@@ -2,9 +2,6 @@
 
 Here you can directly find all the available mods between all the pesky saves.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 ```markdown
 # Cheats
 
