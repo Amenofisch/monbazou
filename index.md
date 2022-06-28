@@ -2,7 +2,6 @@
 
 Here you can directly find all the available mods between all the pesky saves.
 
-```markdown
 # Cheats
 
 1. [VieFacile](https://www.nexusmods.com/monbazou/mods/8)
@@ -32,5 +31,4 @@ Here you can directly find all the available mods between all the pesky saves.
   - Build / Unlock Menu
   - Misc
 **Developed by UponARedSky#9622**
-```
 
