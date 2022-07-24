@@ -1,7 +1,3 @@
-## Welcome to Amenofisch's Page for Mon Bazou Mods
-
-Here you can directly find all the available mods between all the pesky saves.
-
 # Cheats
 
 1. [VieFacile](https://www.nexusmods.com/monbazou/mods/8)
